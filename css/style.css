@@ -8,6 +8,11 @@
     text-decoration: none;
 }
 
+html,body{
+    width: 100%;
+    scroll-behavior: smooth;
+}
+
 /* NAVBAR */
 .max-width{
     max-width: 1300px;
